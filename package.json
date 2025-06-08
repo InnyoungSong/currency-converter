@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "currency_converter",
+=======
+  "name": "currencyconverter",
+>>>>>>> 4387f08 (2.0)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
